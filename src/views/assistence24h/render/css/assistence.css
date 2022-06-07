@@ -1,0 +1,86 @@
+.container-assistence{
+    border-radius: 20px;
+    margin: 0;
+    padding: 0;
+    background: white;
+    padding: 1%;
+}
+
+.container-sideBar-menu{
+    border-radius: 3px;
+}
+
+.container-assistence-map{
+    margin: 1%;
+}
+
+.container-assistence-header{
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    background: #CBCBCB ;
+}
+
+.font-name-header{
+    /* margin: 1%; */
+    float: left;
+    font-size: 15pt;
+    font-weight: 800;
+    margin-top: 0.75%;  /* Aqui pode QUEBRAR */
+    margin-left: 0.6%;
+    margin-right: 0.4%;
+}
+
+.font-icon-header{
+    /* margin: 1%; */
+    float: left;
+    font-size: 15pt;
+    font-weight: 800;
+    margin-top: 0.6%;  /* Aqui pode QUEBRAR */
+    margin-left: 1%;
+}
+
+.btn-assistence{
+    margin: 0.5%;
+}
+
+
+/* fonte e tals */
+.font-assistence-titulo{
+    font-size: 14pt;
+    font-weight: 600;
+    
+}
+
+.font-assistence-sub{
+    font-size: 12pt;
+    font-weight: 400;
+    margin-bottom: 1%;
+    
+}
+
+.font-assistence-text{
+    font-size: 12pt;
+    font-weight: 400;
+    margin-bottom: 1%;
+}
+
+.input-comboBox{
+    width:80%;
+    height: 40px;
+    border-radius: 5px;
+    border-style: outset;
+    border-width: 0.5px;
+    padding: 5px;
+}
+.input-comboBox2{
+    width:80%;
+    height: 40px;
+    border-radius: 5px;
+    border-style: outset;
+    margin: 1%;
+    border-width: 0.5px;
+    padding: 5px;
+}
+
+

@@ -1,0 +1,72 @@
+.card-search {
+    border-radius: 20px;
+    height: 100%;
+}
+
+.text-titulo {
+    font-size: 15pt;
+    margin-bottom: 3%;
+}
+
+.card-total-sinister{
+    border-color: red;
+    border-radius: 20px;
+}
+
+.text-sinister-open{
+    font-size: 1.2em;
+    align-self: center;
+}
+.text-qtd{
+    color: red;
+    font-size: 2.7em;
+    align-self: center;
+}
+.finc-sub {
+    font-size: 13px;
+    margin-bottom: 5%;
+}
+
+.text-titulo-graph-sinistro {
+    font-size: 15pt;
+}
+
+
+.card-sinister {
+    border-radius: 20px;
+    height: 100%;
+}
+
+.btn-chart-sinister {
+    text-align: end;
+}
+
+.card-events {
+    border-radius: 20px;
+}
+
+.calendarioHomeCss {
+    width: 100%;
+    margin-bottom: 3%;
+
+}
+
+.calendario-home-css .calendario-css {
+    width: 100%;
+    border-color: white;
+    align-items: center;
+    padding: 10% 0;
+}
+
+.text-calendar-ocorrence {
+    font-size: 10pt;
+}
+
+.card-calender {
+    border-radius: 20px; 
+    height: 100%;
+}
+
+.ocorrencias-container {
+    margin-top: 0%;
+}

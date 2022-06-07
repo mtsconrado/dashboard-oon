@@ -1,0 +1,30 @@
+.font-info-title{
+    color: #6D6D6D;
+    padding: 12px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37.5px;
+}
+
+.font-info-subTitle{
+    color: #6D6D6D;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 19px;
+    padding-bottom: 4%;
+}
+
+.font-info-interTitle{
+    color: #6D6D6D;
+    font-weight: 600;
+    font-size: 14px;
+    margin-top: 2%;
+    line-height: 14px;
+}
+
+.font-info-content{
+    color: #14142B;
+    font-weight: 400;
+    font-size: 13pt;
+    margin-bottom: 5px;
+}

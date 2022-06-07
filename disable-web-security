@@ -1,0 +1,7 @@
+
+	
+open -n -a /Applications/Google\ Chrome.app --args --user-data-dir="/tmp/MiCarpeta" --disable-web-security
+
+simulacao de rota de um carro  aceitar ate 100 pontos
+
+

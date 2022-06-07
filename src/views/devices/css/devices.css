@@ -1,0 +1,56 @@
+.device-container {
+    border-radius: 20px;
+}
+
+.menu-device-container {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: 1%;
+    /* background: #AEAEAE; */
+}
+
+
+/* ----- btn pagination ----- */
+
+.container-devices-pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: #f2f2f3;
+    margin-top: 5%;
+    position: inline-end;
+    border-radius: 20px;
+}
+
+.container-qtd-employeer {
+    position: initial;
+    padding-left: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.container-pagination-align {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 81%;
+}
+
+
+.btn-user-pagination {
+    margin: 0.5%;
+    border-radius: 8px;
+}
+
+.newUser {
+    margin-right: 10px;
+}
+
+.collun-actions {
+    background: chocolate;
+}

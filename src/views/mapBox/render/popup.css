@@ -1,0 +1,55 @@
+
+
+.colunas-popup{
+    width: 430px;
+    height: 130px;
+}
+
+.colunas-popup2{
+    background: white;
+    width: 430px;
+    height: 100px;
+}
+
+.img-pop{
+    margin-left: 5px;
+    margin-top: 8px;
+    width: 180px;
+    border-radius: 8px;
+    height: 110px;
+}
+
+
+.andar1-col-dir{
+    margin-top:22px;
+}
+
+/* Container do segundo andar  */
+.andar2-col-left{
+    background: white;
+}
+
+.andar2-col-meio{
+    background: white;
+}
+.andar2-col-dir{
+    padding-top: 8px;
+}
+
+.andar2-col-dir .btn-carro{
+    margin-top:15px;
+
+}
+
+.andar2-col-dir .btn-relatorio{
+    margin-top:5px;
+
+}
+/* FONTE SUBTITULO  */
+.font-sub{
+    font-size: 9pt;
+}
+
+.font-text{
+    font-size: 11pt;
+}

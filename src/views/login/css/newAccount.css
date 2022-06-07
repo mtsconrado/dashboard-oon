@@ -1,0 +1,45 @@
+.btn-salvar {
+    width: 100%;
+}
+
+
+.container-err {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.container-err {
+    width: 100%;
+    background: rgb(207, 145, 52);
+    border-radius: 12px;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+}
+
+.label-newAccount-error {
+    color: white;
+    font-weight: 700;
+
+}
+
+.container-msg-error {
+    background: rgba(233, 41, 41, 0.5);
+    border-radius: 12px;
+    padding: 1%;
+}
+
+
+.circle-newAccount {
+    padding-right: 2%;
+
+}
+
+.circle-font-ok {
+    color: green
+}
+
+.circle-font-err {
+    color: rgb(187, 14, 14)
+}

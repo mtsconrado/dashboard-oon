@@ -1,0 +1,42 @@
+.finc-title {
+    font-size: 16pt;
+}
+
+.cards {
+    border-radius: 20px;
+    height: 100%;
+}
+.cards-toppings-and-devices {
+    border-radius: 20px;
+    height: 50%;
+}
+
+.cards-customers {
+    border-radius: 20px;
+    height: 100%;
+}
+
+.finc-sub {
+    font-size: 10pt;
+}
+
+.btn-filter {
+    text-align: right;
+}
+
+.button-css {
+    font-size: xx-small;
+}
+
+.calendario {
+    border-color: white;
+    letter-spacing: 2px;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+    padding-top: 10%;
+}
+
+.text-container-users {
+    font-size: 10pt
+}

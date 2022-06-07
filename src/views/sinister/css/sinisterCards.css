@@ -1,0 +1,42 @@
+.container-occurrence-data {
+    margin-top: 1%;
+    background: rgb(218, 218, 218);
+    width: 100%;
+    border-radius: 20px;
+    padding-bottom: 1%;
+}
+
+.title-container-card {
+    padding: 2%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    width: 100%;
+    background-color: #F1EFEF;
+    font-size: 14pt;
+}
+
+.container-content-card {
+    padding: 1% 2%;
+}
+
+.containters-ocorrencia {
+    margin-top: 1%;
+}
+
+.conteudo-label-title {
+    color: #6D6D6D;
+    font-size: 10pt;
+}
+
+.conteudo-label-info {
+    color: #6D6D6D;
+    font-weight: 500;
+    font-size: 12pt;
+}
+
+.subtitle-tipo-data {
+    color: #6D6D6D;
+    font-weight: 700;
+    margin-top: 1%;
+}

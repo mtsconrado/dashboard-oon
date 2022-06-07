@@ -1,0 +1,36 @@
+.header-map{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: black;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+}
+
+.btn-tracarRota{
+    margin: 2%;
+}
+
+.container-body-map{
+    /* MAPA body */
+}
+
+
+.container-header-btns{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-map{
+    width: 100%;
+}
+
+.input-select-cidade{
+    width: 90%;
+    height: 40px;
+    border-radius: 20px;
+    margin: 5px;
+}

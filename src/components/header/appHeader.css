@@ -1,0 +1,32 @@
+.container-header-name{
+    margin: 0;
+    
+}
+
+.name-header{
+    font-size: 12pt;
+}
+
+.funcao-header{
+    margin: 0;
+    font-size: 10pt;
+}
+
+.container-data{
+    margin-top: 2.2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-config-screen{
+    text-decoration: none;
+    color: rgb(63, 63, 63);
+}
+
+.btn-header-exit{
+    /* margin-top: 10px; */
+    width: 100%;
+    text-align: initial;
+}

@@ -1,0 +1,102 @@
+/* .container-plan {
+    height: 100%;
+    width: 100%;
+} */
+
+.container-show-plans {
+    width: 100%;
+    margin: 1%;
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+}
+
+.container-show-plans-header {
+    background: rgb(126, 126, 126);
+    margin: 0;
+    padding: 0;
+}
+
+.plano {
+    padding: 3%;
+    border-radius: 20px;
+}
+
+.carta {
+    border-radius: 20px;
+    margin-right: 3%;
+    height: 100%;
+}
+
+.cartaFora {
+    margin-top: 2%;
+    margin-right: 1%;
+}
+
+.container-opcoes {
+    display: flex;
+}
+
+.btn-pesq {
+    margin-right: 1%;
+}
+
+/* button de opcoes do  */
+
+.container-buttonOp {
+    margin-bottom: 8%;
+}
+
+.container-buttonOp .buttonOps {
+    float: right;
+}
+
+.bodyTexto {
+    float: left;
+    margin-left: 3%;
+    width: 100%;
+    text-align: start;
+    font-size: 10pt;
+}
+
+.bodyTextoPrice {
+    font-size: 10pt;
+    padding-left: 3%;
+}
+
+.container-itens-plans {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bodyIcon {
+    float: left
+}
+
+
+
+/*  NOVO PLANO */
+.Container-ColLeft-newPlan {
+    padding: 3%;
+    height: 100%;
+}
+
+.Container-ColRight-newPlan {
+    background: rgb(231, 231, 231);
+    padding: 3%;
+    height: 100%;
+    border-radius: 8px;
+}
+
+.container-search {
+    padding: 1%;
+}
+
+.container-teste {
+    background: red;
+}
+
+.container-teste2 {
+    background: rgb(97, 73, 73);
+}

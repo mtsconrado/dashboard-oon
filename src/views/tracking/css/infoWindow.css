@@ -1,0 +1,62 @@
+
+/* FONTES */
+.font-sub{
+    margin-top: 3%;
+    font-size: 10pt;
+    font-weight: 600;
+}
+
+.font-text{
+    font-size: 12pt;
+}
+
+.font-btns{
+    font-size: 10pt;
+}
+
+.container-info-window{
+    /* background: rgb(255, 228, 255); */
+    padding: 0;
+    /* justify-content: left; */
+}
+
+
+.container-info-window-linha1{
+    /* background: red; */
+}
+
+.line1-colLeft{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.line2-colRight{
+    /* background: green; */
+}
+
+.linha1-container-left{
+    /* background: red; */
+}
+
+
+
+/* LINHA 2 */
+
+.container-infoWindo-linha2{
+    padding: 0;
+}
+
+.line2-col-left{
+    /* background: silver; */
+}
+
+.line2-col-mid{
+    /* background: lemonchiffon; */
+}
+
+.line2.col-right{
+    /* background: lightcoral ; */
+}

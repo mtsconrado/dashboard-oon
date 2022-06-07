@@ -1,0 +1,10 @@
+.container-device-midia-actions{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-css-midia{
+    cursor: pointer;
+}

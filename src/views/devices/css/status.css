@@ -1,0 +1,56 @@
+.container-status-orange{
+    background:#FF6711;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color:white;
+}
+
+.container-status-yellow{
+    background:#FFD809;
+    color: #14142B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    padding-left:15px;
+    padding-right:15px;
+}
+
+.container-status-red{
+    background:red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color:white;
+}
+
+.container-status-green{
+    background:green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color:white;
+}
+
+.container-status-blue{
+    background:#216CFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    color:white;
+}
+
+.button-status-select{
+    margin-left: 3%;
+}

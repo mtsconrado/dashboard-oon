@@ -1,0 +1,22 @@
+.car-follow{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.container-logs{
+    padding: 2%;
+}
+
+.container-msg{
+    border-radius: 20px;
+    padding: 1%;
+}
+.container-msg-atual{
+    background: rgba(219, 219, 219, 0.35);
+    border-radius: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 0.8%;
+}

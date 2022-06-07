@@ -1,0 +1,19 @@
+.container-status {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+.icon-status {
+    background-color: #14142B;
+    border-radius: 50%;
+}
+
+.icon-status-loading {
+    background-color: #6D6D6D;
+    border-radius: 50%;
+}

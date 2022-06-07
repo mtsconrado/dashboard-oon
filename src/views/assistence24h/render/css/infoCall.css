@@ -1,0 +1,34 @@
+.font-infoCall-header{
+    font-size: 10pt;
+    font-weight: 800;
+}
+
+.font-infoCall-text{
+    font-size: 12pt;
+    font-weight: 400;
+}
+
+.container-infoCall-header{
+    margin-top: 1%;
+    padding-top: 10px;
+}
+
+.container-infoCall-body{
+    padding: 1%;
+}
+
+.container-partsOfBody{
+    margin-top: 2%;
+}
+
+.font-infoCall-boxes{
+    background: rgb(221, 221, 221);
+    margin-left: 2%;
+    margin-top: 8px;
+    padding-top: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    font-size: 10pt;
+}

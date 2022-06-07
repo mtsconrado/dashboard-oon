@@ -1,0 +1,84 @@
+.card-setting {
+    border-radius: 20px;
+    padding-bottom: 5%;
+    height: 90%;
+}
+
+.menu-bar {
+    background: #F9F7F7;
+    border-radius: 20px;
+    padding: 0;
+    padding-top: 2%;
+    margin-right: 2%;
+    height: auto;
+}
+
+.btn-help-side-bar {
+    height: 700;
+    font-size: 18px;
+    width: 100%;
+    margin-top: 5%;
+    padding-left: 10%;
+}
+
+.container-profile-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 0.5em;
+    color: #6D6D6D;
+}
+
+.container-profile-sub-title {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 0.6em;
+    margin-top: 0.5em;
+    color: #6D6D6D;
+}
+
+.container-profile-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #6D6D6D;
+}
+
+.cardEsq {
+    border-radius: 20px;
+}
+
+
+
+.ButtonAlterarSenha {
+    float: inline-end;
+}
+
+.btn-salvar-setting {
+    margin-right: 2%;
+}
+
+
+.privacy-dir {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-help-search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.font-btn-setting {
+    float: left;
+}
+
+.container-profile-photo {
+    width: 100%;
+    padding: 1%;
+
+}
+

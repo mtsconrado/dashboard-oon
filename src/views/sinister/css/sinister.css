@@ -1,0 +1,32 @@
+.container-sider-bar-sinister {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background: #E1E1E1;
+}
+
+.btn-sidebar-sinistro {
+    width: 100%;
+    text-align: initial;
+    margin-top: 2%;
+}
+
+.card-radius {
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.BTN-font {
+    color: #6D6D6D;
+    margin-bottom: 2%;
+    font-size: 10pt;
+    width: 100%;
+    text-align: end;
+}
+
+.icon-container {
+    margin-left: 3%;
+}

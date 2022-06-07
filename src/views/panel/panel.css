@@ -1,0 +1,22 @@
+.btn1Chamados{
+    float: right;
+ 
+}
+
+.cardEsquerda{
+    border-radius: 20px;
+    height: 100%;
+}
+
+.cardUser{
+    border-radius: 20px;
+}
+
+.cardDirRanking{
+    height: 100%;
+    border-radius: 20px;
+}
+
+.ranking-render{
+
+}

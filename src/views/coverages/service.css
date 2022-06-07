@@ -1,0 +1,36 @@
+.cardService{
+    border-radius: 20px;
+    height: 100%;  /* trocar aqui dps   */
+    margin-bottom: 2%;
+    
+}
+
+.btn-pesq{
+    margin-right: 1%;
+}
+
+
+.container-select{
+    background:rgb(243, 237, 237);
+    height: auto;
+    border-radius: 5px;
+}
+
+.iconContainer{
+    margin: 1%;
+}
+
+.descricao-container{
+    height: 100%;
+}
+
+.container-input-value-service{
+    width: 100%;
+    padding: 5px;
+    border-radius:5px ; 
+    border-width: 0.01px
+}
+
+.containers-inputs-coverages{
+    margin-top: 2%;
+}

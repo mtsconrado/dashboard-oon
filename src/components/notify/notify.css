@@ -1,0 +1,28 @@
+.notificacao-popover{
+    width: 20%;
+    background: rgb(228, 227, 227);
+    border-radius: 20px;
+    margin-top: 1%;
+}
+
+.Titulo-notificacao{
+    font-size: 12pt;
+}
+
+.texto-notificacao{
+    font-size: 10pt;
+}
+
+.btn-notificacao-modal{
+    width: 100%;
+}
+
+.container-lixeira{
+    width: 100%;
+    text-align:right;
+
+}
+/* 
+.position-lixeira-relative{
+   float:right;
+} */

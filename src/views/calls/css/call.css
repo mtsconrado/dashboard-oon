@@ -1,0 +1,55 @@
+.card {
+    border-radius: 20px;
+    height: 100%;
+}
+
+.card-atend {
+    height: 45%;
+    border-radius: 20px;
+}
+
+.callout {
+    margin: 0;
+    border-radius: 20px;
+    height: 100%;
+}
+
+.chart-line {
+    height: 15em;
+}
+
+.call-title {
+    font-size: 16pt;
+}
+
+.call-sub {
+    font-size: 10pt;
+}
+
+.btn-filter {
+    text-align: right;
+}
+
+.call-subTitle {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.card-protocolo {
+    height: 100%;
+    border-radius: 20px;
+}
+
+.hour-date {
+    font-size: 13px;
+}
+
+.card-calender .calender {
+    margin-top: 5%;
+    width: 100%;
+    /*vw; */
+    border-color: white;
+    letter-spacing: 1px;
+    align-items: center;
+    font-size: 10pt;
+}

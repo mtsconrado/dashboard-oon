@@ -1,0 +1,101 @@
+.newUser{
+    margin-right: 10px;
+}
+
+
+.icon-css{
+    cursor: pointer;
+    margin-left: 10px;
+    color: white;
+}
+
+.usersContainer{
+    border-radius: 20px;
+
+}
+.menuUser{
+    margin-bottom: 1%;
+}
+
+.container-employees-actions{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn-employees-action{
+    margin-left:4%;
+}
+
+.usersTableContainer{
+    background: white;
+}
+
+.newUser-input-IncorrectEmail{
+    background: rgb(245, 163, 56);
+    margin-top: 1%;
+    padding: 0.5%;
+    border-radius: 5px;
+}
+
+.user-icons{
+    font-size: 20pt;
+}
+
+.container-users-notFind{
+    background: rgb(228, 228, 228) ;
+    border-radius: 20px;
+    padding: 3%;
+}
+
+.btn-user-pagination{
+    margin: 0.5%;
+}
+
+.container-users-pagination{
+    background: #f2f2f3;
+    position: inline-end;
+    border-radius: 20px;
+}
+
+.container-qtd-employeer{
+    position: initial;
+    padding-left: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.container-pagination-align{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 81%;
+}
+
+.filtro {
+    width: 8em;
+    margin: 10px;
+}
+
+.input-filter {
+    width: 15em;
+    margin: 10px;
+}
+
+.btn-filter {
+    margin: 8px;
+    padding: 5px;
+}
+.icon-filtro {
+    padding: 0px 6px 2px 0px;
+}
+
+.filter-text {
+    font-size: 9pt;
+    color: #C4C4C4;
+    padding: 10px;
+}

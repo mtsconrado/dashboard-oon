@@ -1,0 +1,65 @@
+.card-widget{
+    border-radius: 20px;
+    display: flex;
+}
+
+.textFont{
+    color: #374354
+}
+
+.leftSimbol{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.textFontSimbol{
+    padding: 30%;
+}
+.simbolo1{
+    width: 14px;
+    height: 14px;
+    background: orange;
+    border-radius: 15px;
+}
+
+.simbolo2{
+    width: 14px;
+    height: 14px;
+    background: green;
+    border-radius: 15px;
+}
+
+.simbolo3{
+    width: 14px;
+    height: 14px;
+    background: red;
+    border-radius: 15px;
+}
+
+.widget-container{
+    border-radius: 20px;
+}
+.callout-widget{
+    border-radius: 20px;
+}
+
+.btn-widget3{
+    float:right;
+}
+
+
+/* CLASS  NA PROPRIEDADE WIDGETS */
+
+.circle-orange{
+    color: orange;
+}
+
+.circle-green{
+    color: green;
+}
+
+.circle-red{
+    color: red;
+}

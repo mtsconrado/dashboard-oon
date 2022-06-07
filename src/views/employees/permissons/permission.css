@@ -1,0 +1,70 @@
+
+/* FONTE */
+.font-titulo-permission{
+    font-size: 16pt;
+    font-weight: 600;
+}
+
+.font-subTitulo-permission{
+    font-size: 10pt;
+    font-weight: 600;
+    margin-top: 2%;
+}
+
+.container-checkForm{
+    margin-top: 5%;
+}
+
+.container-permissoes{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
+
+.container-left-componentes{
+    width: 20%;
+    background: rgb(174,174,174);
+    padding: 1%;
+    border-radius: 20px;
+    
+}
+
+.container-mid-componentes{
+    width: 40%;
+    padding-top: 1%;
+    padding-left: 3%;
+    border-radius: 20px;
+   
+}
+.container-right-componentes{
+    width: 40%;
+    padding-top: 1%;
+    padding-left: 2%;
+    border-radius: 20px;
+    
+}
+
+/* .container-left-permission{
+    background: rosybrown;
+}
+
+.container-right-permission{
+    background: rgb(121, 33, 33);
+} */
+
+.select-container{
+    width: 50%;
+}
+
+.spin-permission{
+    margin-left: 3%;
+}
+
+.container-button-salvar{
+    float: right;
+}
+
+.container-button-save-permissino{
+    width: 100%;
+}

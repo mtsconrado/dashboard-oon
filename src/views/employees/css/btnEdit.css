@@ -1,0 +1,39 @@
+.modal-title {
+    font-size: 2em;
+    margin: 10px;
+    color: #6D6D6D;
+} 
+
+.nav-employees{
+    background:#E1E1E1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    cursor:pointer; 
+    height:60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left:0.5%;
+    margin-right:0.5%;
+}
+
+.nav-employees:hover{
+    background:#6D6D6D;
+    color:white;
+}
+    
+.nav-employees-active{
+    background:#6D6D6D;
+    cursor:pointer; 
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color:white;
+    height:60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left:0.5%;
+    margin-right:0.5%;
+}

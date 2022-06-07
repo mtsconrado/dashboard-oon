@@ -1,0 +1,24 @@
+.staus-pl{
+    padding-left: 9%;
+}
+
+.data-p{
+    padding: 0;
+}
+
+.icon-listVehicle-css{
+    cursor: pointer;
+    margin-left: 10px;
+    color: white;
+}
+
+.container-device-listVehicles-actions{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-table-listVehicles {
+    font-size: 10pt;
+}

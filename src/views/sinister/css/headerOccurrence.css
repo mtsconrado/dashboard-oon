@@ -1,0 +1,16 @@
+.text-title-header {
+    color: #6D6D6D;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.text-content-header {
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 2%;
+}
+
+.container-btns {
+    width: 100%;
+    height: 100%;
+}
